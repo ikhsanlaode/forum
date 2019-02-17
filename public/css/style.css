@@ -1,0 +1,28 @@
+table .sub-head{
+    line-height: 0.1;
+    font-size: small;
+    background-color: #4f8ef7;
+}
+
+body{
+    background-color: #e9ebee;
+}
+
+table .content{
+    background-color: white;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.navbar .nav-item:hover{
+    background-color: #ddd;
+    color: black;
+}
+
+#sub{
+    font-weight: bold;
+    color: red;
+}
